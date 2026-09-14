@@ -1,0 +1,94 @@
+cff-version: 1.2.0
+message: If you use this atlas, cite this versioned resource and the adult source
+  atlas listed in references.
+title: Macaque Age-Template Brainnetome Atlas - v4 Preview
+version: v4-preview
+type: dataset
+authors:
+- family-names: Li
+  given-names: Wen
+  affiliation: Institute of Automation, Chinese Academy of Sciences
+license: CC-BY-4.0
+references:
+- type: article
+  authors:
+  - family-names: Lu
+    given-names: Yuheng
+  - family-names: Cui
+    given-names: Yue
+  - family-names: Cao
+    given-names: Long
+  - family-names: Dong
+    given-names: Zhenwei
+  - family-names: Cheng
+    given-names: Luqi
+  - family-names: Wu
+    given-names: Wen
+  - family-names: Wang
+    given-names: Changshuo
+  - family-names: Liu
+    given-names: Xinyi
+  - family-names: Liu
+    given-names: Youtong
+  - family-names: Zhang
+    given-names: Baogui
+  - family-names: Li
+    given-names: Deying
+  - family-names: Zhao
+    given-names: Bokai
+  - family-names: Wang
+    given-names: Haiyan
+  - family-names: Li
+    given-names: Kaixin
+  - family-names: Ma
+    given-names: Liang
+  - family-names: Shi
+    given-names: Weiyang
+  - family-names: Li
+    given-names: Wen
+  - family-names: Ma
+    given-names: Yawei
+  - family-names: Du
+    given-names: Zongchang
+  - family-names: Zhang
+    given-names: Jiaqi
+  - family-names: Xiong
+    given-names: Hui
+  - family-names: Luo
+    given-names: Na
+  - family-names: Liu
+    given-names: Yanyan
+  - family-names: Hou
+    given-names: Xiaoxiao
+  - family-names: Han
+    given-names: Jinglu
+  - family-names: Sun
+    given-names: Hongji
+  - family-names: Cai
+    given-names: Tao
+  - family-names: Peng
+    given-names: Qiang
+  - family-names: Feng
+    given-names: Linqing
+  - family-names: Wang
+    given-names: Jiaojian
+  - family-names: Paxinos
+    given-names: George
+  - family-names: Yang
+    given-names: Zhengyi
+  - family-names: Fan
+    given-names: Lingzhong
+  - family-names: Jiang
+    given-names: Tianzi
+  title: 'Macaque Brainnetome Atlas: A multifaceted brain map with parcellation, connection,
+    and histology'
+  journal: Science Bulletin
+  year: 2024
+  volume: '69'
+  issue: '14'
+  start: '2241'
+  end: '2259'
+  doi: 10.1016/j.scib.2024.03.031
+  url: https://doi.org/10.1016/j.scib.2024.03.031
+url: https://github.com/wenlii/Macaque-development-Brainnetome-Atlas
+repository-code: https://github.com/wenlii/Macaque-development-Brainnetome-Atlas

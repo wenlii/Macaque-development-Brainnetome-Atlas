@@ -1,0 +1,38 @@
+{
+  "release_tag": "v4-preview",
+  "repository": "https://github.com/wenlii/Macaque-development-Brainnetome-Atlas",
+  "prepared_utc": "2026-09-14T02:13:42.604096+00:00",
+  "prerelease": true,
+  "packages": [
+    {
+      "name": "macaque_age_atlas_v4_minimal.zip",
+      "bytes": 40300953,
+      "sha256": "3f68a7b7f861c7a455d3d4070420c4e053311bbb0349a3bdcd34fc1dceb96acf",
+      "source_manifest_sha256": "bacafde6d634066674c92a9ba7f50edb125e74076f59fae3f3e015d0c3e910c1",
+      "payload_files": 122,
+      "zip_crc": "PASS",
+      "archived_file_hashes": "PASS",
+      "purpose": "PRIMARY_ATLAS_WITH_ANATOMICAL_QC_HOLD"
+    },
+    {
+      "name": "macaque_age_atlas_v4_display_only.zip",
+      "bytes": 145246310,
+      "sha256": "dd752fc9a72672c0318975d5370afbadd4f7d692532ea67f294a6704734e1767",
+      "source_manifest_sha256": "f2f7be9e308612ba511340f456ad65a37b8b702b33c990924306bc24b647e34b",
+      "payload_files": 140,
+      "zip_crc": "PASS",
+      "archived_file_hashes": "PASS",
+      "purpose": "DISPLAY_ONLY_NOT_FOR_ANALYSIS"
+    }
+  ],
+  "analysis_status": "HOLD_SOURCE_GEOMETRY_AND_LOCAL_REVIEW",
+  "display_companion_status": "DISPLAY_ONLY_NOT_FOR_ANALYSIS",
+  "source_packages_modified": false,
+  "frozen_provenance_note": "Local receipt external_upload/publication fields describe build-time state; they are retained unchanged inside the source packages.",
+  "excluded_from_release_inputs": [
+    "Existing remote hormone_sub.xlsx",
+    "older v0.1.0 preview",
+    "v1/v2/v3 derivatives",
+    "raw reconstruction work directories"
+  ]
+}

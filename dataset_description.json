@@ -1,0 +1,20 @@
+{
+  "Name": "Macaque Age-Template Brainnetome Atlas",
+  "Version": "v4-preview",
+  "DatasetType": "derivative",
+  "Species": "Macaca mulatta",
+  "Repository": "https://github.com/wenlii/Macaque-development-Brainnetome-Atlas",
+  "Release": "https://github.com/wenlii/Macaque-development-Brainnetome-Atlas/releases/tag/v4-preview",
+  "Groups": 6,
+  "SurfaceROIsPerHemisphere": 124,
+  "VolumeROIs": 248,
+  "AnalysisPackage": "macaque_age_atlas_v4_minimal.zip",
+  "DisplayOnlyPackage": "macaque_age_atlas_v4_display_only.zip",
+  "AnatomicalValidation": "HOLD_SOURCE_GEOMETRY_AND_LOCAL_REVIEW",
+  "DisplayOnlyAllowedUse": "Illustration only; never use cosmetic labels or masks for downstream computation",
+  "PrimaryVoxelGrid": "original 0.5-mm age-template grids",
+  "License": "See LICENSE.md for the existing project notice and upstream scope",
+  "FullReconstructionInputsDistributed": false,
+  "Contacts": "Not supplied",
+  "PublicationState": "See the GitHub release page; this metadata does not claim independent anatomical validation"
+}

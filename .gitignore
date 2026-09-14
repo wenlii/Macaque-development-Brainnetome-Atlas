@@ -1,0 +1,9 @@
+# Atlas binaries are distributed as GitHub Release assets.
+*.nii
+*.nii.gz
+*.gii
+*.zip
+__pycache__/
+*.pyc
+.env
+.env.*
