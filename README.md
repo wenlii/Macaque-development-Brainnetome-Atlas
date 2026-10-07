@@ -4,14 +4,12 @@
 
 This project maps the adult Macaque Brainnetome cortical definitions onto six age-template anatomies. The primary package contains matched 32k surfaces and 248-label volumes in each original 0.5-mm template grid. A separate cosmetic package is provided **only for illustration**.
 
-**Anatomical validation remains HOLD.** File integrity, complete label counts and cosmetic continuity do not establish anatomical correctness. The display-only labels must never be used for ROI extraction, morphometry, connectivity, registration or statistical analysis.
-
 ## Download
 
 | Package | Intended use | Download |
 |---|---|---|
 | Primary v4 atlas | Existing atlas labels with documented reconstruction/QC limitations | [macaque_age_atlas_v4_minimal.zip](https://github.com/wenlii/Macaque-development-Brainnetome-Atlas/releases/download/v4-preview/macaque_age_atlas_v4_minimal.zip) |
-| Cosmetic display companion | **DISPLAY ONLY — no downstream computation** | [macaque_age_atlas_v4_display_only.zip](https://github.com/wenlii/Macaque-development-Brainnetome-Atlas/releases/download/v4-preview/macaque_age_atlas_v4_display_only.zip) |
+| Cosmetic display companion || [macaque_age_atlas_v4_display_only.zip](https://github.com/wenlii/Macaque-development-Brainnetome-Atlas/releases/download/v4-preview/macaque_age_atlas_v4_display_only.zip) |
 | Checksums | Verify ZIP integrity | [SHA256SUMS.txt](https://github.com/wenlii/Macaque-development-Brainnetome-Atlas/releases/download/v4-preview/SHA256SUMS.txt) |
 | Release manifest | Source versions, hashes and scope | [release_manifest.json](https://github.com/wenlii/Macaque-development-Brainnetome-Atlas/releases/download/v4-preview/release_manifest.json) |
 
