@@ -17,10 +17,9 @@ Use the attached ZIP assets on the [v4 release page](https://github.com/wenlii/M
 
 ## Quick start
 
-1. Download the appropriate ZIP and `SHA256SUMS.txt`, then verify the archive hash.
-2. Extract the whole package, keeping its folder structure.
-3. For the primary atlas, open `groups/<group>/atlas.wb.spec` in Connectome Workbench.
-4. For the cosmetic companion, open `groups/<group>/DISPLAY_ONLY_dense.wb.spec`.
+1. Extract the whole package, keeping its folder structure.
+2. For the primary atlas, open `groups/<group>/atlas.wb.spec` in Connectome Workbench.
+3. For the cosmetic companion, open `groups/<group>/DISPLAY_ONLY_dense.wb.spec`.
 
 The analysis package can be checked with `python validate_release.py` from its extracted root after installing `requirements.txt`. The display package contains its own checking and rendering scripts. See [usage](docs/USAGE.md) and [code/input requirements](code/README.md).
 
